@@ -22,4 +22,13 @@ $ sudo apt install fswebcam
 
 ```bash
 # fswebcam -r 1600x1200 image3.jpg
+# fswebcam -r 1600x1200 -p YUYV image45.jpg
 ```
+
+# check uvcvido module support lists
+
+```bash
+# uvcdynctrl -f
+```
+
+
