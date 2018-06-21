@@ -17,3 +17,9 @@ $ lsusb
 
 $ sudo apt install fswebcam
 ```
+
+# simple capture (still)
+
+```bash
+# fswebcam -r 1600x1200 image3.jpg
+```
